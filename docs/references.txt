@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/zfz/twitter_corpus/master/full-corpus.csv
+https://github.com/karanluthra/twitter-sentiment-training/blob/master/corpus.csv
+https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed
+https://python-twitter.readthedocs.io/en/latest/
